@@ -1,0 +1,2 @@
+# Customer-Purchase-Prediction-Logistic-Regression.-
+This interactive dashboard uses Logistic Regression to predict whether a customer is likely to purchase a product based on their age and estimated salary. Users can adjust inputs using sliders to see real-time predictions, along with model accuracy, confusion matrix, and a visual decision boundary for better understanding of how the model works.
