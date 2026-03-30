@@ -1,6 +1,5 @@
-numpy
+streamlit
 pandas
+numpy
 matplotlib
 scikit-learn
-streamlit
-altair
